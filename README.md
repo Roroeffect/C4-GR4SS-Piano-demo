@@ -6,4 +6,4 @@ In built feature of hiding the key tags so after usage for a certain amount of t
 
 The goal of the activity is to improve the stroke survivors tactile rerponse, cognition and motor skills.
 
-Made using javascript and starndard libraries for the piano notes. 
+Made using javascript, css, html starndard libraries for the piano notes. 
