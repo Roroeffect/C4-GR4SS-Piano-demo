@@ -10,4 +10,8 @@ The goal of the activity is to improve the stroke survivors tactile rerponse, co
 
 Made using javascript, css, html starndard libraries for the piano notes. 
 
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/69092677/236607431-97fa684b-4aa2-4111-87b2-caf6f3ff76f9.gif)
+
+
 https://raw.githack.com/Roroeffect/C4-GR4SS-Piano-demo/main/index.html
